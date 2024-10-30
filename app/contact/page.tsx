@@ -29,12 +29,25 @@ const Contact: React.FC = () => {
           </div>
         </form>
       </section>
-      
-      <footer className="bg-gray-800 text-white p-4 text-center">
-        <p>&copy; 2024 Boys Clothes Collection. All Rights Reserved.</p>
-      </footer>
+     <footer className="bg-blue-900 p-6 fixed bottom-0 left-0 right-0">
+      <p className="text-center text-white">Follow me for more updates</p>
+      <div className="flex justify-center space-x-4 mt-4">
+        <a href="https://www.linkedin.com/in/javeria-fatima-5414a330b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3LSWEFmNRNOjNp2wTF4lYQ%3D%3D" target="_blank">
+          <img src="/images/linkdin.png" alt="LinkedIn" className="h-6 w-6 shadow-2xl rounded transition-transform duration-300 hover:scale-105 hover:shadow-xl" />
+        </a>
+        <a href="https://github.com/javeria-fatima49" target="_blank">
+          <img src="/images/github.png" alt="GitHub" className="h-6 w-6 shadow-2xl rounded transition-transform duration-300 hover:scale-105 hover:shadow-xl" />
+        </a>
+        </div>
+      <p className="text-center text-white mt-4">fatimajaveria409@gmail.com</p>
+      <p  className="bg-blue-900 text-white p-1 text-center">&copy; 2024 Men Clothes Collection. All Rights Reserved.</p>
+    </footer>
     </div>
  );
 }
 
 export default Contact;
+
+
+
+

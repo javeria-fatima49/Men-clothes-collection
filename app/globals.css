@@ -7,7 +7,7 @@
   --foreground: #171717;
 }
 
-@media (min-width:768px) {
+@media (min-width:360px) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
