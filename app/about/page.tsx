@@ -6,7 +6,7 @@ export default function About() {
     <div className='flex flex-col justify-center p-7 py-40 max-w-3xl mx-auto bg-white rounded-lg shadow-md hover:shadow-xl'>
         <h2 className='font-semibold text-2xl font-serif'>About Me</h2>
       <p className="text-black mb-4 font-sans">
-        Hello! I'm Javeria Fatima, currently in my second year at Government Degree College Nazimabad. I am passionate about technology and am currently taking an artificial intelligence course through the Government of Sindh initiative.
+        Hello! I&apos;m Javeria Fatima, currently in my second year at Government Degree College Nazimabad. I am passionate about technology and am currently taking an artificial intelligence course through the Government of Sindh initiative.
       </p>
       
       <p className="text-black mb-4 font-sans">
@@ -14,7 +14,7 @@ export default function About() {
       </p>
       
       <p className="text-black mb-4 font-sans">
-        Through my studies and projects, I aim to contribute to the field of AI and make a positive impact. In my free time, I enjoy exploring new technologies, reading about the latest advancements in AI, and working on personal projects to apply what I've learned.
+        Through my studies and projects, I aim to contribute to the field of AI and make a positive impact. In my free time, I enjoy exploring new technologies, reading about the latest advancements in AI, and working on personal projects to apply what I&apos;ve learned.
       </p>
       
       <p className="text-black mb-4 font-sans">
